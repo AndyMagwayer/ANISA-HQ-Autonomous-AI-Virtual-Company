@@ -1,0 +1,6 @@
+{
+  "name": "ANISA HQ — Autonomous AI Virtual Company",
+  "description": "Autonomous AI-agent virtual company platform with Director Anisa, Cloud Memory, specialized agents, AndyMagwayer GitHub integration, and Gather virtual office.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
